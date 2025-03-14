@@ -94,12 +94,15 @@ The complete project is deployed on Vercel.
 
 ### Deployed Backend Link:
 https://vinylstore-backend.vercel.app/
+![alt text](/docs/backend_screenshot.png "backend")
 
 ### Deployed Frontend Link:
 https://vinylstore-frontend.vercel.app/
+![alt text](/docs/responsive_1.1.png "frontend")
 
 ### Deployed Admin Link:
 https://vinylstore-admin.vercel.app/orders
+![alt text](/docs/admin_orders.png "frontend")
 
 
 ## Project Management
